@@ -6,7 +6,7 @@ import Footer from "@/components/Footer";
 export default function Home() {
 
   return (
-    <div className="nonedashboard-layout">
+    <div className="nondashboard-layout">
       <NonDashboardNavbar />
       <main className="nondashboard-layout__main">
         <Landing />
